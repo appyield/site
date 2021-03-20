@@ -10,3 +10,8 @@
 .header-logo-image {
 	width: 100px;
 }
+
+.section-paragraph,
+.hero-paragraph {
+	color: #fff;
+}
