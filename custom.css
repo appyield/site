@@ -1,0 +1,12 @@
+.button-primary {
+	background: #fffe07;
+	color: #000 !important;
+}
+
+.button-primary:hover {
+	background: #bdbc0b;
+}
+
+.header-logo-image {
+	width: 100px;
+}
